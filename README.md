@@ -38,8 +38,8 @@ Proporciona una interfaz interactiva y segura para listar, eliminar y reordenar 
 ### 1. Clonar o descargar el repositorio
 
 ```bash
-git clone https://github.com/rodrigo47363/efibootmanager.git
-cd efibootmanager
+git clone https://github.com/rodrigo47363/efibootmanager.sh/
+cd efibootmanager.sh
 ````
 
 ### 2. Otorgar permisos de ejecución
